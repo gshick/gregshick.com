@@ -21,11 +21,11 @@ role: Director, Analytics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Analytics / Data Science / Statistics
+    # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I do data.
+bio: Analytics / Data Science / Statistics
 
 # Interests to show in About widget
 interests:
@@ -116,7 +116,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-# Biogaphy 
+# About me
 A proven data science people and project manager, I am passionate about data analytics and visualization and I strive to take complex problems with large amounts of data and reduce them to concise, actionable solutions.
 
 This website serves to document selected professional work products and to highlight some of the fun data sets that I enjoy working with in my free time. I hope you enjoy them as much as I enjoyed making them!
