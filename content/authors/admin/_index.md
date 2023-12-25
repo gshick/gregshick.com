@@ -3,7 +3,7 @@
 title: Greg Shick
 
 # Name pronunciation (optional)
-name_pronunciation: Greg Shick
+# name_pronunciation: Greg Shick
 
 # Full name (for SEO)
 first_name: Greg
@@ -116,6 +116,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+# Biogaphy 
+A proven data science people and project manager, I am passionate about data analytics and visualization and I strive to take complex problems with large amounts of data and reduce them to concise, actionable solutions.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+This website serves to document selected professional work products and to highlight some of the fun data sets that I enjoy working with in my free time. I hope you enjoy them as much as I enjoyed making them!
+
 {style="text-align: justify;"}
