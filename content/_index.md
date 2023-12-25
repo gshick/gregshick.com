@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Greg Shick'
 date: 2022-10-24
 type: landing
 
@@ -34,12 +34,12 @@ sections:
     design:
       background:
         gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
+        gradient_start: '#375A7F'
         text_color_light: true
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
