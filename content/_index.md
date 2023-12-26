@@ -33,7 +33,7 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        gradient_end: '#1976d2'
+        gradient_end: '#375A7F'
         gradient_start: '#375A7F'
         text_color_light: true
   - block: about.biography
@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Director, Analytics
+          company: Charles Schwab
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Colorado
+          date_start: '2017-10-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,14 +75,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Area Manager, Analytics
+          company: DirecTV
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: CColorado
+          date_start: '2012-04-01'
+          date_end: '2017-10-01'
+          description: Worked in telecom.
     design:
       columns: '2'
   - block: accomplishments
