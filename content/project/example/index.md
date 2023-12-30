@@ -6,9 +6,7 @@ tags:
   - R
 # date: '2016-04-27T00:00:00Z'
 
-<iframe src="demo_iframe.htm" name="iframe_a" title="Iframe Example"></iframe>
 
-<p><a href="https://www.w3schools.com" target="iframe_a">W3Schools.com</a></p>
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
@@ -36,3 +34,7 @@ slides: example
 ---
 
 I built this app using the R / Shiny framework to summarize my 2023 sabbatical, a six week trip across Europe beginning in Budapest and ending Porto.
+
+<iframe src="demo_iframe.htm" name="iframe_a" title="Iframe Example"></iframe>
+
+<p><a href="https://www.w3schools.com" target="iframe_a">W3Schools.com</a></p>
