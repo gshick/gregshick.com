@@ -1,7 +1,7 @@
 /* Hugo Blox color theme: BLUE */
 :root {
   /* TW Blue Palette */
-  --color-primary-50: 239 246 255;
+  /* color-primary-50: 239 246 255; */
   /* --color-primary-100: 219 234 254;
   --color-primary-200: 191 219 254;
   --color-primary-300: 147 197 253;
@@ -10,10 +10,10 @@
   --color-primary-600: 37 99 235;
   --color-primary-700: 29 78 216;
   --color-primary-800: 30 64 175;
-  --color-primary-900: 30 58 138;
-  --color-primary-950: 23 37 84; */
+  --color-primary-900: 30 58 138; */
+  color-primary-950: 23 37 84; 
   /* TW Cyan Palette */
-  --color-secondary-50: 236 254 255;
+  /* color-secondary-50: 236 254 255; */
   /* --color-secondary-100: 207 250 254;
   --color-secondary-200: 165 243 252;
   --color-secondary-300: 103 232 249;
@@ -23,5 +23,5 @@
   --color-secondary-700: 14 116 144;
   --color-secondary-800: 21 94 117;
   --color-secondary-900: 22 78 99;
-  --color-secondary-950: 8 51 68; */
+  color-secondary-950: 8 51 68;
 }

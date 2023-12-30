@@ -4,7 +4,11 @@ title: Sabbatical App
 tags:
   - Shiny
   - R
-date: '2016-04-27T00:00:00Z'
+# date: '2016-04-27T00:00:00Z'
+
+<iframe src="demo_iframe.htm" name="iframe_a" title="Iframe Example"></iframe>
+
+<p><a href="https://www.w3schools.com" target="iframe_a">W3Schools.com</a></p>
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
