@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  # theme_day: minimal
-  # theme_night: minimal
-  color: blue
+  theme_day: minimal
+  theme_night: minimal
+  color: "#315a70"
   font: minimal
   font_size: L
 
@@ -41,6 +41,7 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
+  
 
 # Site footer
 

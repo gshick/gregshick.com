@@ -1,6 +1,6 @@
 ---
-title: Writing technical content in Markdown
-date: 2019-07-12
+title: Data Enablememt
+# date: 2019-07-12
 math: true
 image:
   placement: 2
